@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Entities.Abstract
+namespace Core.Entities
 {//IEntity implemenet eden class veritabanı classıdır.
     public interface IEntity
     {

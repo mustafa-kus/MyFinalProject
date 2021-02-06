@@ -8,7 +8,8 @@ using Entities.Concrete;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfCategoryDal : EfEntityRepositorybase<Category, NorthwindContext>, ICategoryDal
+    public class EfOrderDal : EfEntityRepositorybase<Order, NorthwindContext>, IOrderDal
     {
+        
     }
 }
